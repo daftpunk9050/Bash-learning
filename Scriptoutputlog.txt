@@ -1,0 +1,41 @@
+Declared variable $CITY is:  Le Locle
+Declared variable $MYNUMBER is: 12345
+Function variable $TODAY_DATE (weekday day year mm:ss) is: Sun 02 2017 49:40
+Script terminated OK
+
+
+Declared variable $CITY is:  Le Locle
+Declared variable $MYNUMBER is: 12345
+Function variable $TODAY_DATE (weekday day year mm:ss) is: Sun 02 2017 52:16
+rr
+Variable $READVAR contains: Testing
+Script terminated OK
+rr
+Declared variable $CITY is:  Le Locle
+Declared variable $MYNUMBER is: 12345
+Function variable $TODAY_DATE (weekday day year mm:ss) is: Sun 02 2017 53:02
+rr
+Variable $READVAR contains: HOHOHO
+Script terminated OK
+rr
+Declared variable $CITY is:  Le Locle
+Declared variable $MYNUMBER is: 12345
+Function variable $TODAY_DATE (weekday day year mm:ss) is: Sun 02 2017 55:16
+
+Variable $READVAR contains: letsgo
+Script terminated OK
+
+02-02-2017 12:02:08 Declared variable $CITY is:  Le Locle
+Declared variable $MYNUMBER is: 12345
+Function variable $TODAY_DATE (weekday day year mm:ss) is: Sun 02 2017 02:08
+
+Variable $READVAR contains: test
+Script terminated OK
+
+12:06:04.931651260 02-Jul-2017 Declared variable $CITY is:  Le Locle
+12:06:04.933233215 02-Jul-2017 Declared variable $MYNUMBER is: 12345
+12:06:04.934731587 02-Jul-2017 Function variable $TODAY_DATE (weekday day year mm:ss) is: Sun 02 2017 06:04
+
+12:06:11.228744864 02-Jul-2017 Variable $READVAR contains: Testing log timestamps
+12:06:11.230337000 02-Jul-2017 Script terminated OK
+
